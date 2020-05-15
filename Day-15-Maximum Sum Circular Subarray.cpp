@@ -35,7 +35,7 @@ Explanation: Subarray [-1] has maximum sum -1
 /*
 Time: O(n)
 Space: O(1)
-Concept used: max subarry sum (Kadane algo)
+Concept used: max subarray sum (Kadane algo)
 */
 
 int max_sum(vector<int>& a)
